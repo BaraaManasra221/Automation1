@@ -142,7 +142,7 @@ driver.navigate().to(SignupPage);
 //    	 System.out.println( driver.findElements(By.tagName("a")).size());
     	 
     	 
-    	 
+    	 System.out.println("baraa manasra");
     	 
     	 
     	 
